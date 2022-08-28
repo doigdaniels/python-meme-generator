@@ -5,4 +5,4 @@ under dire circumstance, walter hartwell white of 308 Negra Aroya Lane, Albuquer
 # attributions
 
 - audio: [David Keister](https://www.youtube.com/channel/UC1FAgoB6mUU6LnrjVVotzxw)
-- walter faces: [Walter white becomes uncanny - BronzeMoon](https://www.youtube.com/watch?v=KklEiZOuGc0)
+- walter faces: [Walter White becomes uncanny - BronzeMoon](https://www.youtube.com/watch?v=KklEiZOuGc0)
