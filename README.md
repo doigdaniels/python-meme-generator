@@ -1,6 +1,7 @@
-# uncanny-white
+# python-meme-generator
 
-under dire circumstance, walter hartwell white of 308 Negra Aroya Lane, Albuquerque, New Mexico, 87104 becomes increasingly, unmistakably, and unequivocally UNCANNY
+This project was created in a weekend in August 2022 to help me learn video generation using Python.
+It uses MoviePy to create similarly structured shortform video memes automatically.
 
 # attributions
 
